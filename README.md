@@ -22,13 +22,13 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/dhiraj-kumar-553793312" target="_blank">
+  <a href="http://linkedin.com/in/dhiraj-kumar-553793312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/dhiraj.kumar" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/dhiraj.kumar" target="_blank">
+  <a href="https://www.instagram.com/__.dhiraj.__00?igsh=c3Byb2E3cGJ3b2R6&utm_source=qrr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
